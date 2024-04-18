@@ -3,7 +3,7 @@
 Eu sou estudante de Análise e Desenvolvimento de Sistemas, foco em construção de sites, aplicativos móveis e sistemas.
 
 ✨Desenvolvedor Web FullStack<br>
-✨ Gosto de construir aplicativos em frameworks como React Native. Também gosta de construir APIs.
+✨ Gosto de construir aplicativos em frameworks com React Native e também gosto de construir APIs.
 <hr>
 <li>🛠 Tech Stack <br></li>
 <li>📱 Mobile:  React Native<br></li>
