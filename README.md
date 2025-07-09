@@ -60,8 +60,8 @@ Esses são apenas alguns dos meus projetos, e estou sempre trabalhando em algo n
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabula21&show_icons=true&theme=dark&hide_title=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabula21&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabula21&show_icons=true&theme=radical&hide_title=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabula21&layout=compact&theme=radical" width="48%" />
 </div>
 
 ---
