@@ -53,6 +53,9 @@
 - [**SMTT Intranet**](https://github.com/Kabula21/SMTT-Intranet)  
   Sistema intranet para a Superintendência Municipal de Transportes e Trânsito (SMTT), desenvolvido em Blazor e Tailwind CSS, com funcionalidades como notificações internas, integração com APIs externas e controle de documentos.
 
+- [**EPARK-MOBILE**](https://github.com/Kabula21/EPARK-MOBILE)  
+  Aplicativo em React Native para estacionamento, onde o usuário pode reservar sua vaga, registrar a placa do veículo, pagar antecipadamente e gerar um código QR para utilizar ao chegar no estabelecimento.
+
 Esses são apenas alguns dos meus projetos, e estou sempre trabalhando em algo novo! Fique à vontade para explorar mais no meu [GitHub](https://github.com/Kabula21).
 
 ---
