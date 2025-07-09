@@ -38,10 +38,22 @@
 
 ---
 
-## 🚀 Projetos e contribuições
+## 🚀 Projetos e Contribuições
 
-✨ Em breve adicionarei aqui alguns projetos legais em que estou trabalhando.  
-Fique à vontade para acompanhar minha jornada ou me chamar para colaborar.
+✨ Aqui estão alguns dos meus projetos mais recentes e ativos:
+
+### 🌱 **Projetos Ativos**
+
+- [**KeySecurity**](https://github.com/Kabula21/KeySecurity)  
+  Aplicação web em Blazor Server para armazenar senhas pessoais de forma segura e acessível. Utiliza criptografia avançada e tem uma interface amigável.
+
+- [**ENEMScore**](https://github.com/Kabula21/ENEMScore)  
+  Plataforma para auxiliar alunos do ensino médio a se prepararem para o ENEM, com consulta de cursos, pesos de matérias e testes de redação.
+
+- [**SMTT Intranet**](https://github.com/Kabula21/SMTT-Intranet)  
+  Sistema intranet para a Superintendência Municipal de Transportes e Trânsito (SMTT), desenvolvido em Blazor e Tailwind CSS, com funcionalidades como notificações internas, integração com APIs externas e controle de documentos.
+
+Esses são apenas alguns dos meus projetos, e estou sempre trabalhando em algo novo! Fique à vontade para explorar mais no meu [GitHub](https://github.com/Kabula21).
 
 ---
 
