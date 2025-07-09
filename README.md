@@ -1,66 +1,67 @@
-# Olá! Eu me chamo Anderson (Kabula) 👋
+<h1 align="center">Fala aí, eu sou o Kabula 👋</h1>
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Front-End com foco em interfaces modernas, experiência do usuário (UX) e aplicativos mobile.  
-Tenho paixão por transformar ideias em interfaces intuitivas, responsivas e funcionais.
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Kabula21&style=flat&color=blue)
-
----
-
-## ✨ Sobre mim
-
-- 🎨 Desenvolvedor Front-End com foco em UX Design  
-- 📱 Experiência em desenvolvimento mobile com **React Native**  
-- 🌐 Criação de interfaces web modernas com **Blazor**, **JavaScript** e **Tailwind CSS**  
-- 🧠 Gosto de unir código e design para entregar produtos de alta qualidade  
-- 🚀 Em constante evolução, estudando novas tecnologias e boas práticas de usabilidade  
+<p align="center">
+Desenvolvedor Front-End apaixonado por interfaces bonitas, funcionais e responsivas.<br/>
+Transformando ideias em experiências reais — do design ao código 🚀
+</p>
 
 ---
 
-## 🛠 Tecnologias que utilizo
+## 🧠 Sobre mim
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎨 Especialista em UX/UI com foco em experiência do usuário  
+📱 Desenvolvimento mobile com React Native  
+🖥️ Interfaces web com JavaScript, Blazor e Tailwind CSS  
+🧩 Design como ponte entre criatividade e funcionalidade  
+🌱 Sempre aprendendo novas tecnologias e boas práticas  
+
+---
+
+## 🔧 Tech Stack
+
+### 👨‍💻 Front-End
+- JavaScript • Blazor • Tailwind CSS  
+- HTML • CSS • Responsive Design
 
 ### 📱 Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+- React Native
 
-### 🌐 Front-End
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+### 🎨 UX/UI Design
+- Figma • Photoshop • Illustrator
 
-### 🧩 UX/UI Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+### 🧪 Back-end (suporte)
+- Node.js • C# (.NET) • PostgreSQL
 
-### 🗄 Backend (suporte)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-### 🛢 Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### ⚙️ Controle de Versão
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### 🧰 IDEs
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### ⚙️ Outros
+- Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos e contribuições
+
+✨ Em breve adicionarei aqui alguns projetos legais em que estou trabalhando.  
+Fique à vontade para acompanhar minha jornada ou me chamar para colaborar.
+
+---
+
+## 📈 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kabula21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabula21&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabula21&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabula21&layout=compact&theme=tokyonight" width="48%"/>
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Bora trocar uma ideia?
 
-Se quiser colaborar em algum projeto, trocar ideia ou bater um papo sobre design e tecnologia, sinta-se à vontade para me chamar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kabula-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-kabula/)
+[![Email](https://img.shields.io/badge/Email-kabulahomestudio@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabulahomestudio@gmail.com)
+[![Instagram](https://img.shields.io/badge/@kabula__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kabula_/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-kabula/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabulahomestudio@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kabula_/)
+---
+
+<p align="center">
+  Feito com 💙 por Kabula | Código & Design com propósito.
+</p>
