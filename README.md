@@ -42,10 +42,13 @@
 
 ✨ Aqui estão alguns dos meus projetos mais recentes e ativos:
 
-### 🌱 **Projetos Ativos**
+## 🚀 Projetos em Destaque
 
-- [**KeySecurity**](https://github.com/Kabula21/KeySecurity)  
-  Aplicação web em Blazor Server para armazenar senhas pessoais de forma segura e acessível. Utiliza criptografia avançada e tem uma interface amigável.
+- [**Ordinals2025**](https://github.com/Kabula21/Ordinals2025)  
+  Página de divulgação artística desenvolvida em HTML, CSS e JavaScript para a banda **Ordinals**. O projeto foca em identidade visual, apresentação de trabalhos musicais e presença digital, com layout moderno e responsivo.
+
+- [**Kabulahomestudio-2025**](https://github.com/Kabula21/Kabulahomestudio-2025)  
+  Site institucional em HTML, CSS e JavaScript para divulgação do **Kabula Home Studio**, produtor musical independente. Apresenta portfólio, serviços, estética artística e informações de contato, com foco em branding e experiência visual.
 
 - [**ENEMScore**](https://github.com/Kabula21/ENEMScore)  
   Plataforma para auxiliar alunos do ensino médio a se prepararem para o ENEM, com consulta de cursos, pesos de matérias e testes de redação.
@@ -56,7 +59,8 @@
 - [**EPARK-MOBILE**](https://github.com/Kabula21/EPARK-MOBILE)  
   Aplicativo em React Native para estacionamento, onde o usuário pode reservar sua vaga, registrar a placa do veículo, pagar antecipadamente e gerar um código QR para utilizar ao chegar no estabelecimento.
 
-Esses são apenas alguns dos meus projetos, e estou sempre trabalhando em algo novo! Fique à vontade para explorar mais no meu [GitHub](https://github.com/Kabula21).
+Esses são apenas alguns dos meus projetos, e estou sempre trabalhando em algo novo!  
+Fique à vontade para explorar mais no meu [GitHub](https://github.com/Kabula21).
 
 ---
 
